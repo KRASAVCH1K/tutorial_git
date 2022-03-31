@@ -1,0 +1,357 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	min-width: 1000px;
+	overflow-x: hidden;
+
+}
+#background1{
+/* background1 */
+
+
+position: absolute;
+width: 1457px;
+height: 818px;
+left: -17px;
+top: 96px;
+
+background: url(background1.png);
+}
+#white-bar{
+	position: absolute;
+	width: auto;
+	height: 96px;
+	left: -1px;
+	top: 0px;
+	background: darkred;
+}
+#catalog{
+	/* Каталог */
+
+	position: absolute;
+	left: 178px;
+	right: 93.53%;
+	top: 37.36%;
+	bottom: 38.46%;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	color: #000000;
+}
+#delivery{
+	/* Доставка */
+
+
+	position: absolute;
+	left: 383px;
+	right: 75.73%;
+	top: 37.36%;
+	bottom: 38.46%;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
+#logo{
+	width: 247px;
+	height: 91px;
+	left: 424px;
+
+	position: absolute;
+	left: 609px;
+	right: 45.71%;
+	top: 0%;
+	bottom: 0%;
+
+	background: url(logo.png);
+}
+#reviews{
+	/* Отзывы */
+
+
+	position: absolute;
+	left: 975px;
+	right: 29.29%;
+	top: 37.36%;
+	bottom: 38.46%;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
+#contacts{
+	position: absolute;
+	left: 1178px;
+	right: 10.68%;
+	top: 37.36%;
+	bottom: 38.46%;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
+#icon-bar{
+	/* icon_1-корзина */
+
+width: 40px;
+height: 37.6px;
+top: 26px;
+
+position: absolute;
+left: 1381px;
+right: 0%;
+top: 28.57%;
+bottom: 30.11%;
+
+background: url(icon_1.png);
+}
+.facebook{
+	/* facebook */
+
+
+position: absolute;
+width: 66px;
+height: 57px;
+left: 48px;
+top: 289px;
+z-index: 9999;
+
+background: url(icon_2.png);
+
+}
+.vector-4{
+position: absolute;
+width: 0px;
+height: 174.5px;
+left: 81.5px;
+top: 96px;
+background-color: black;
+
+border: 1px solid #000000
+}
+.instagram{
+	/* instagraam */
+
+
+position: absolute;
+width: 66px;
+height: 63px;
+left: 48px;
+top: 346px;
+}
+.whatsapp{
+	/* whatsapp */
+
+
+position: absolute;
+width: 55px;
+height: 56px;
+left: 54px;
+top: 412px;
+
+}
+.vector-5{
+position: absolute;
+width: 0px;
+height: 174.5px;
+left: 81px;
+top: 479px;
+background-color: black;
+
+border: 1px solid #000000;
+}
+#image-2{
+	/* image 2 */
+
+
+position: absolute;
+width: 1002.64px;
+height: 644px;
+left: 706px;
+top: 157px;
+z-index: 9999;
+opacity: 0.9;
+
+background: url(image-2.png);
+transform: matrix(-1, 0.03, 0.03, 1);
+}
+#component-2{
+	position: absolute;
+	width: 763px;
+	height: 76px;
+	left: 725px;
+	top: 857px;
+	display: grid;
+	grid-template-columns: 68px 388px 68px;
+}
+#vector-1{
+	width: 0px;
+	height: 68px;
+	border: 1px solid #000000;
+	transform: rotate(90deg);
+	z-index: 9999;
+	/*
+	top: 38px;
+	position: absolute;
+	left: 10.22%;
+	right: 89.78%;
+	top: 50%;
+	bottom: -39.47%;
+
+	border: 1px solid #000000;
+	transform: rotate(90deg);
+*/
+}
+#why-txt{
+	height: 76px;
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 500px;
+	font-size: 63px;
+	line-height: 76px;
+
+
+/*
+	position: absolute;
+	left: 84px;
+	right: -0.92%;
+	top: 0%;
+	bottom: 0%;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 500px;
+	font-size: 63px;
+	line-height: 76px;
+	/* or 76px */
+
+
+color: #E15774;
+}
+#vector-2{
+	/* Vector 8 */
+
+	height: 68px;
+	width: 0px;
+	border: 1px solid #000000;
+	transform: rotate(90.14deg);
+
+	/*
+	height: 68.25px;
+	top: 38.17;
+
+	position: absolute;
+	left: 569.25;
+	right: 25.39%;
+	top: 50.22%;
+	bottom: -40.03%;
+
+	border: 1px solid #000000;
+	transform: rotate(90.14deg);
+	*/
+}
+.vector-3{
+	/* Vector 3 */
+
+
+position: absolute;
+width: 1462px;
+height: 20px;
+left: -6px;
+top: 735px;
+
+
+}
+#slide1-txt1{
+	/* Авторские букеты по Москве и МО */
+
+
+	position: absolute;
+	width: 790px;
+	height: 152px;
+	left: 209px;
+	top: 166px;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 63px;
+	line-height: 121%;
+	/* or 76px */
+
+
+	color: #E15774;
+}
+#slide1-txt2{
+	/* Доставим незабываемый подарок  от Floincity для вас и ваших любимых  в течение часа */
+
+
+	position: absolute;
+	width: 511px;
+	height: 87px;
+	left: 215px;
+	top: 354px;
+
+	font-family: 'Montserrat Alternates';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 29px;
+
+	color: #000000;
+}
+#ping-bar{
+	/* ping-bar */
+
+
+	position: absolute;
+	width: 326px;
+	height: 56px;
+	left: 215px;
+	top: 485px;
+
+
+	background: #FFC4D7;
+}
+#txt-bar{
+	/* Выбрать и заказать букет */
+
+
+position: absolute;
+width: 278px;
+height: 22px;
+left: 245px;
+top: 503px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
