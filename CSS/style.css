@@ -99,7 +99,7 @@ background: url(background1.png);
 	left: 1178px;
 	right: 10.68%;
 	top: 37.36%;
-	bottom: 38.46%;
+	 1bottom: 38.46%;
 
 	font-family: 'Montserrat Alternates';
 	font-style: normal;
@@ -123,6 +123,7 @@ left: 1381px;
 right: 0%;
 top: 28.57%;
 bottom: 30.11%;
+
 
 background: url(icon_1.png);
 }
@@ -190,7 +191,6 @@ width: 1002.64px;
 height: 644px;
 left: 706px;
 top: 157px;
-z-index: 9999;
 opacity: 0.9;
 
 background: url(image-2.png);
@@ -282,6 +282,7 @@ left: -6px;
 top: 735px;
 
 
+
 }
 #slide1-txt1{
 	/* Авторские букеты по Москве и МО */
@@ -354,4 +355,89 @@ line-height: 22px;
 
 color: #000000;
 
+}
+.image-3{
+	/* image-3 */
+
+
+position: absolute;
+width: 594px;
+height: 762px;
+left: 931px;
+top: 783px;
+
+background: url(IMG_8946.png);
+}
+.flowers-1{
+	/* image 4 */
+
+
+position: absolute;
+width: 408px;
+height: 424px;
+left: 161px;
+top: 963px;
+
+background: url(image.png);
+}
+.black-box-1{
+	/* Rectangle 108 */
+
+
+position: absolute;
+width: 401px;
+height: 418px;
+left: 147px;
+top: 985px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+.flowers-2{
+/* image 5 */
+
+
+position: absolute;
+width: 408px;
+height: 424px;
+left: 891px;
+top: 1260px;
+
+background: url(image.png);
+}
+.black-box-2{
+	/* Rectangle 109 */
+
+
+position: absolute;
+width: 401px;
+height: 418px;
+left: 875px;
+top: 1279px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+.flowers-3{
+	/* image 6 */
+
+
+position: absolute;
+width: 408px;
+height: 424px;
+left: 161px;
+top: 1545px;
+}
+.black-box-3{
+	/* Rectangle 110 */
+
+
+position: absolute;
+width: 401px;
+height: 418px;
+left: 147px;
+top: 1565px;
+
+border: 1px solid #000000;
+box-sizing: border-box;
 }
